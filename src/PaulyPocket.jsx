@@ -599,7 +599,7 @@ function sourceLabel(src) {
 const S = {
   app: {
     fontFamily: "'DM Sans', 'Rubik', system-ui, sans-serif",
-    background: "#f7f6f3",
+    background: "yellow",
     minHeight: "100vh",
     maxWidth: 420,
     margin: "0 auto",
